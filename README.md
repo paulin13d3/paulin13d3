@@ -1,4 +1,11 @@
+# Hello World!
 ### Olá! sou o Paulo Henrique Xavier de Andrade😺
+<div>
+<h4>-> Sou uma pessoa apaixonada pela tecnologia, música e a área de exatas;</h4>
+<h4>-> Toco violino na maior orquestra do mundo;</h4>
+<h4>-> Desenvolvo um projeto chamado "Jornal Ribeirinhos", passem no meu instagram para conhecer!;</h4>
+<h4>-> Atualmente estou estudando HTML5, CSS3 e JavaScript!</h4>
+</div>
 
 [![Meu Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/paulin13d.3/)
 
@@ -16,8 +23,5 @@
     <img align="center" alt="canva"  src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white">
     <img align="center" alt="arduino"  src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white">
 </div><br/>
-
-Sou uma pessoa apaixonada pela tecnologia, música e a área de exatas; Toco violino na maior orquestra do mundo; 
-Desenvolvo um projeto chamado "Jornal Ribeirinhos", passem no meu instagram para conhecer!; Tenho apenas 14 anos!
 
 ## Gmail para contato: paulin909020@gmail.com
