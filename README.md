@@ -4,6 +4,8 @@
 
 ![paulin13d3 GitHub stats](https://github-readme-stats.vercel.app/api?username=paulin13d3&show_icons=true&theme=transparent)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paulin13d3)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Tecnologias que uso atualmente:
 
 <div style="display: inline_block"><br/>
